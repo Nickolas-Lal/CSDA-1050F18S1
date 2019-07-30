@@ -1,7 +1,3 @@
+Sprint 1 is the status update of the project so far. It identifies what has been completed, and what still needs to be done.
 
-# csda 1050
-
-### Sprint
-Describe what is in here. 
-Describe what is needed to be done to run it. 
-Describe what the purpose/results/findings were. 
+The data that has been identified as necessary to complete the analysis above has to be collected and extracted from the above data sources. The methodology has been identified at a general level, but it still needs to be specified and the scope needs to be narrowed. The data collection and methodology need to be finalized.
