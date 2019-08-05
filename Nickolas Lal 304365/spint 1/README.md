@@ -1,3 +1,3 @@
-Sprint 1 is the status update of the project so far. It identifies what has been completed, and what still needs to be done.
+Sprint 1 is the status update of the project so far. It identifies what has been completed, and what still needs to be done, it is the data collection and preliminary analysis phase.
 
 The data that has been identified as necessary to complete the analysis above has to be collected and extracted from the above data sources. The methodology has been identified at a general level, but it still needs to be specified and the scope needs to be narrowed. The data collection and methodology need to be finalized.
